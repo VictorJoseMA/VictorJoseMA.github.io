@@ -25,16 +25,13 @@
                 </dl>
             </li>
         </ul>
- 
     </div>
-    
         <form> 
             <input type="search" id="search" placeholder="Buscar...">
 <button type="submit">Buscar</button>
         </form>
     </nav>
     <div class="opacacy" >
-      
 </div>
     <p class="pont">
         "Somos una empresa dedicada 
@@ -42,8 +39,6 @@
        y al servicio de paqueteria 
       en el cual podras confiar"
     </p>
-    
-    
 <main>
 <br>
  <br>
@@ -127,7 +122,6 @@
         </ul>
       </div>
     </div>
-  
   </section>
   </div>
 <div class="container"></div>
@@ -216,7 +210,6 @@
 <section id="politicas">
   <h2 style="text-align: center;" >Políticas</h2>
   <p style="text-align: center;" >Nuestras políticas de empresa...</p>
-
   <div class="policy-box">
     <h3>Sistema de seguimiento en línea</h3>
     <p>Nuestro sistema de seguimiento en línea te permite rastrear tus envíos en tiempo real. Recibirás notificaciones personalizadas sobre el estado de tus envíos.</p>
@@ -225,7 +218,6 @@
       <li>Recibir notificaciones personalizadas sobre el estado de tus envíos</li>
     </ul>
   </div>
-
   <div class="policy-box">
     <h3>Manejo de paquetes</h3>
     <p>Nuestro proceso de verificación adicional garantiza que tus paquetes sean manejados con cuidado y atención al detalle en cada etapa del proceso de envío.</p>
@@ -234,7 +226,6 @@
       <li>Manejo de paquetes con cuidado y atención al detalle</li>
     </ul>
   </div>
-
   <div class="policy-box">
     <h3>Opciones de envío</h3>
     <p>Ofrecemos diferentes opciones de envío para adaptarnos a tus necesidades.</p>
@@ -244,7 +235,6 @@
       <li>Envío premium: Recibe tus paquetes con seguro y tracking incluido</li>
     </ul>
   </div>
-
   <div class="policy-box">
     <h3>Precios y pagos</h3>
     <p>Nuestros precios son competitivos y transparentes, sin sorpresas ni cargos adicionales.</p>
@@ -253,7 +243,6 @@
       <li>Opciones de pago flexibles</li>
     </ul>
   </div>
-
   <div class="policy-box">
     <h3>Compromiso con la calidad</h3>
     <p>En TransMarimba, nos comprometemos a brindar un servicio de alta calidad y a mejorar constantemente nuestra oferta para satisfacer las necesidades de nuestros clientes.</p>
