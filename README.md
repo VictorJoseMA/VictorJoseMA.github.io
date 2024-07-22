@@ -300,7 +300,6 @@
         <i class="fab fa-instagram" style="font-size: 24px; color: #fff;"></i>
         <a href="https://www.instagram.com/brasilia_oficial/" target="_blank" style="color: #fff; text-decoration: none;">Instagram</a>
       </button>
-     
     </div>
   </footer>
 </body>
