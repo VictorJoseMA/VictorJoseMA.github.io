@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TransMarimba</title>
+    <title> TransMarimba </title>
     <link rel="stylesheet" href="disnes.css">
    <link rel="shortcut icon" href="logoTransmarimba.png" type="image/x-icon">
 </head>
